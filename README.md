@@ -74,10 +74,10 @@ ML from scratch/
 │   └── benchmark_linear_regression.py
 │
 ├── notebooks/
-│   ├── 01_linear_regression_real_world.ipynb
-│   ├── 02_logistic_regression_real_world.ipynb
-│   ├── 03_neural_network_real_world.ipynb
-│   └── 04_gradient_boosting_real_world.ipynb
+│   ├── linear_regression_real_world.ipynb
+│   ├── logistic_regression_real_world.ipynb
+│   ├── neural_network_real_world.ipynb
+│   └── gradient_boosting_real_world.ipynb
 │
 ├── src/
 │   └── ml_from_scratch/
@@ -119,7 +119,7 @@ ML from scratch/
 │       │   ├── boosting.py
 │       │   ├── decision_tree.py
 │       │   ├── decision_tree_regressor.py
-│       │   ├── gradient_boosting.py
+│       │   ├── boosting.py
 │       │   └── random_forest.py
 │       │
 │       └── decomposition/
